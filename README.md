@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hello! I'm Samar Gill 👋✨
 
 Welcome to my GitHub! I'm a passionate **web developer** and **designer** from **Pakistan 🇵🇰**, with dreams as big as the web itself! 🌍 My ultimate goal is to become one of the **world’s top web designers**, move to the **USA 🇺🇸**, and create innovative, beautiful web experiences that make an impact globally. 💻🚀
