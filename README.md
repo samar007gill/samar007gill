@@ -38,7 +38,7 @@ Here’s what I use to bring my creative ideas to life:
 
 I’m always excited to meet like-minded individuals, collaborate on exciting projects, and learn from others. If you're a developer, designer, or someone with a great idea, let’s chat and create something amazing together! 💥
 
-- 📧 **Email**: samar007gill@example.com  
+- 📧 **Email**: gillsamar087@gmail.com  
 - 🐦 **Twitter**: [@SamarGill](https://twitter.com/SamarGill)  
 - 🌐 **Portfolio**: [SamarGill.com](https://SamarGill.com) (coming soon)
 
