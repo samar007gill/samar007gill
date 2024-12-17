@@ -1,9 +1,8 @@
 <h1 align="center">
   <a href="https://github.com/samar007gill">
-    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=30&duration=2000&pause=500&color=000000&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+SAMAR+GILL;Full+Stack+Developer+%7C+Innovator;Building+Powerful+Solutions+with+Code+%E2%9A%9B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=1800&pause=500&color=4682B4&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+SAMAR+GILL;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Powerful+and+Impactful+Solutions+%F0%9F%9A%80" />
   </a>
 </h1>
-
 
 
 Welcome to my GitHub! I'm a passionate **web developer** and **designer** from **Pakistan 🇵🇰**, with dreams as big as the web itself! 🌍 My ultimate goal is to become one of the **world’s top web designers**, move to the **USA 🇺🇸**, and create innovative, beautiful web experiences that make an impact globally. 💻🚀
