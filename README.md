@@ -1,4 +1,8 @@
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=2000&pause=1000&color=363299&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+SAMAR+GILL;A+Passionate+Full+Stack+Developer" />
+  </a>
+</h1>
 # Hello! I'm Samar Gill 👋✨
 
 Welcome to my GitHub! I'm a passionate **web developer** and **designer** from **Pakistan 🇵🇰**, with dreams as big as the web itself! 🌍 My ultimate goal is to become one of the **world’s top web designers**, move to the **USA 🇺🇸**, and create innovative, beautiful web experiences that make an impact globally. 💻🚀
