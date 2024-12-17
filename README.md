@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/samar007gill">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=1500&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+SAMAR+GILL;Full+Stack+Developer+%7C+Innovator+%7C+Dreamer;Crafting+Experiences+with+Code+%F0%9F%8E%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=32&duration=1500&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+SAMAR+GILL;Full+Stack+Developer+%7C+Innovator+%7C+Dreamer;Crafting+Experiences+with+Code+%F0%9F%8E%A8" />
   </a>
 </h1>
 
