@@ -3,102 +3,88 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Samar+Gill;A+Passionate+Full-Stack+Developer;Bringing+Ideas+to+Life+Through+Code+🚀" />
 </h1>
 
-<!-- Custom Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍-Pakistan-%234682B4?style=flat-square&logo=world&logoColor=white" />
-  <img src="https://img.shields.io/badge/💼-Full%20Stack%20Developer-%23008B8B?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀-Tech%20Enthusiast-%23FF4500?style=flat-square&logo=rocket&logoColor=white" />
-</p>
 
-<!-- Banner -->
+
+<!-- Centered Header with Advanced Typing Effect -->
+<h1 align="center">
+    <a href="https://github.com/samar007gill">
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2000&pause=500&color=00C4CC&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!+👋;I'm+Samar+Gill;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Innovative+Solutions+%F0%9F%9A%80;Let's+Make+the+Web+Amazing!+%F0%9F%92%8E" />
+    </a>
+</h1>
+
+<!-- About Section -->
 <p align="center">
-  <img src="https://github.com/samar007gill/samar007gill/assets/107887200/banner.png" alt="Welcome Banner" />
+    <img src="https://img.shields.io/badge/Location-Pakistan-009933?style=flat&logo=googleearth&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ambition-Top%20Web%20Designer-FF5733?style=flat&logo=starship&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dream-USA%20%F0%9F%87%BA%F0%9F%87%B8-4682B4?style=flat&logo=world&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 **About Me**
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/80/000000/external-web-web-design-and-development-justicon-lineal-color-justicon.png" />
-    </td>
-    <td>
-      <b>🎨 Frontend Enthusiast</b>  
-      <i>Crafting intuitive user interfaces and experiences.</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/external-soft-fill-juicy-fish/80/000000/external-backend-web-development-soft-fill-soft-fill-juicy-fish.png" />
-    </td>
-    <td>
-      <b>💻 Backend Developer</b>  
-      <i>Turning complex problems into simplified code.</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/external-becris-flat-becris/80/000000/external-dreamer-life-skills-becris-flat-becris.png" />
-    </td>
-    <td>
-      <b>🌟 Dreamer</b>  
-      <i>Pursuing excellence through passion and creativity.</i>
-    </td>
-  </tr>
-</table>
+I am a passionate **web developer** and **designer** with dreams as vast as the internet itself! 🌍 My ultimate goal is to become one of the **world’s top web designers**, work in the **USA 🇺🇸**, and create beautiful and impactful digital experiences.
 
----
-
-## 🛠️ **Tech Stack**
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Languages" />  
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,express" alt="Frameworks" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,github,vscode,mysql" alt="Tools" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samar007gill&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samar007gill&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+### 🌟 **What I Do**  
+- 🎨 **Web Design**: Craft **aesthetic, responsive, and functional** websites.  
+- 💡 **Tech Enthusiast**: Blend creativity and innovation for an **exceptional user experience**.  
+- 🚀 **Goal-Driven**: Aiming to push boundaries in web development and design.
 
 ---
 
 ## 🎯 **My Goals**
 
-- 🚀 Build cutting-edge solutions that solve real-world problems.  
-- 🌍 Collaborate on open-source projects and impact global communities.  
-- ✈️ Pursue opportunities in the USA to work with tech leaders.  
-- 📚 Keep evolving and learning new technologies.
+| 🌍 **Global Impact**     | 🚀 **Career in USA**   | 💻 **Cutting-Edge Work**  | 📚 **Lifelong Learning** |
+|--------------------------|-----------------------|--------------------------|-------------------------|
+| Build world-class websites | Move to top tech hubs | Work with global leaders | Master new tools & tech |
 
 ---
 
-## 💬 **Connect With Me**
+## 🛠️ **Skills & Technologies**
+
+### 🖥️ **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### ⚙️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🛢️ **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+
+### 🎨 **Design Tools**
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📈 **Current Projects**
+- **💻 Portfolio**: Crafting a stunning personal portfolio site.  
+- **🎨 UI/UX**: Mastering advanced design trends.  
+- **🤝 Open Source**: Actively contributing to the community.
+
+---
+
+## 🌐 **Let’s Connect!**
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SamarGill) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gillsamar087@gmail.com)
+
+---
 
 <p align="center">
-  <a href="mailto:gillsamar087@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/SamarGill"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/samar007gill/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://SamarGill.com"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=flat&logo=firefox-browser&logoColor=white" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar007gill&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+**Samar Gill** - **Passionate Developer & Aspiring World-Class Web Designer** 🎨🚀
 
----
-
-<h3 align="center">✨ "Keep dreaming, coding, and inspiring!" ✨</h3>
-
+<!-- Design and style inspired by modern GitHub profile trends -->
