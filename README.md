@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">🚀 #**About Me**</h2>  
+<h2 align="center">🚀 About Me</h2>  
 
 - **💻 Web Designer & Developer**: Crafting **aesthetic and functional websites** that leave a lasting impression.  
 - **🌟 Big Dreamer**: Striving to become one of the **world’s top web designers** and contribute to groundbreaking projects.  
