@@ -94,14 +94,7 @@ I’m a <strong>web developer</strong> and <strong>designer</strong> from <stron
 
 <p align="center">  
 I’m always open to collaborating on impactful projects and connecting with like-minded professionals. Let’s create something amazing together!  
-</p>  
-
-<p align="center">  
-📧 <strong>Email</strong>: gillsamar087@gmail.com  
-🐦 <strong>Twitter</strong>: [@SamarGill](https://twitter.com/SamarGill)  
-🌐 <strong>Portfolio</strong>: Coming soon!  
-</p>  
-
+<h2 align="center">💬 Let’s Connect!</h2> <p align="center"> ✨ I’m always open to collaborating on impactful projects and connecting with like-minded professionals. Let’s create something amazing together! </p> <p align="center"> <a href="mailto:gillsamar087@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/📧%20Email-gillsamar087%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/samar007gill" target="_blank"> <img src="https://img.shields.io/badge/🐙%20GitHub-samar007gill-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://twitter.com/SamarGill" target="_blank"> <img src="https://img.shields.io/badge/🐦%20Twitter-@SamarGill-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-FFD700?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /> </a> </p>
 ---
 
 <h3 align="center">Samar Gill – Developer | Designer | Dreamer 🌟</h3>  
