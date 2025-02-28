@@ -100,6 +100,10 @@ Here’s how you can elegantly integrate your **GitHub Achievements** into your 
 
 ---
 
+Here’s an enhanced version of your **GitHub Achievements** section with even more **prestigious achievements** to make your profile look **professional, attractive, and impactful!** 🚀  
+
+---
+
 ## **🏆 GitHub Achievements**  
 
 <p align="center">
@@ -108,14 +112,28 @@ Here’s how you can elegantly integrate your **GitHub Achievements** into your 
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="100" alt="Starstruck Achievement" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100" alt="Quickdraw Achievement" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100" alt="Pull Shark Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" height="100" alt="Galaxy Brain Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" height="100" alt="Public Sponsor Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/activist-default.png" height="100" alt="Activist Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/medalist-default.png" height="100" alt="Medalist Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/two-factored-default.png" height="100" alt="Two Factored Achievement" />
 </p>  
-
-🔹 **YOLO** – Merged a pull request without code review.  
-🔹 **Pair Extraordinaire** – Co-authored a pull request with someone.  
-🔹 **Starstruck** – Gained multiple stars on repositories.  
-🔹 **Quickdraw** – First person to comment on an issue or pull request.  
-🔹 **Pull Shark** – Successfully merged multiple pull requests.  
 
 ---
 
-This will make your README look **professional, visually engaging, and achievement-driven!** 🚀 Let me know if you want any tweaks!
+### **🏅 Achievement List & Descriptions**  
+
+🔹 **YOLO** – Merged a pull request without a code review.  
+🔹 **Pair Extraordinaire** – Co-authored a pull request with someone.  
+🔹 **Starstruck** – Gained multiple stars on repositories.  
+🔹 **Quickdraw** – First to comment on an issue or pull request.  
+🔹 **Pull Shark** – Successfully merged multiple pull requests.  
+🔹 **Galaxy Brain** – Answered a discussion with deep technical knowledge.  
+🔹 **Public Sponsor** – Supported an open-source developer via GitHub Sponsors.  
+🔹 **Activist** – Engaged in discussions and contributed to open-source projects.  
+🔹 **Medalist** – Received a GitHub badge for significant contributions.  
+🔹 **Two-Factored** – Secured GitHub account with two-factor authentication.  
+
+---
+
+This **professional and stylish** section will make your **GitHub profile stand out** and showcase your contributions effectively! 🌟 Let me know if you want to **add more badges** or **customize the layout** further! 🚀
