@@ -1,49 +1,47 @@
 
 ---
 
-### 🚀 **Hey there, I'm Samar Gill!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# **🚀 Hi, I'm Samar Gill!**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=700&color=00A1D6&center=true&vCenter=true&width=900&lines=🌐+Full-Stack+Developer+%26+UI%2FUX+Designer;🚀+Turning+Ideas+into+Reality;💡+Innovating+the+Future;🎨+Mastering+the+Art+of+Web+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=700&color=00A1D6&center=true&vCenter=true&width=900&lines=👨‍💻+Full-Stack+Developer;🎨+UI/UX+Designer;🚀+Turning+Ideas+into+Reality;🌍+Building+for+the+Future;💡+Innovating+with+Creativity" />
 </p>
 
----
-
-### 🌟 **About Me**  
-
-- 💻 **Full-Stack Developer & UI/UX Designer** – Passionate about crafting immersive digital experiences.  
-- 🎨 **Creative Innovator** – Bridging the gap between aesthetics and functionality.  
-- 📚 **Lifelong Learner** – Continuously exploring new technologies and design trends.  
-- 🌍 **Global Aspirations** – Aiming to work with top tech companies in the **USA 🇺🇸**.  
-- 🏆 **Visionary** – Striving to redefine modern web design standards.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>  
 
 ---
 
-### 🎯 **My Goals**  
+## **🌟 About Me**  
 
-✅ **Revolutionize Web Design** – Craft intuitive and visually stunning web experiences.  
-✅ **Collaborate with Global Tech Giants** – Be part of **cutting-edge** projects.  
-✅ **Master Advanced UI/UX** – Create seamless and engaging digital interactions.  
-✅ **Build a Thriving Open-Source Community** – Contribute to impactful projects.  
+✅ **Full-Stack Developer & Designer** – Passionate about creating seamless digital experiences.  
+✅ **UI/UX Enthusiast** – Crafting interfaces that blend aesthetics with functionality.  
+✅ **Tech Innovator** – Pushing boundaries in **Web Development & Interactive Design**.  
+✅ **Global Aspirations** – Aiming to work with leading tech companies in the **USA 🇺🇸**.  
+✅ **Open-Source Contributor** – Passionate about **knowledge-sharing** and **collaboration**.  
 
 ---
 
-## 🛠️ **Tech Stack & Tools**  
+## **🎯 Career Goals**  
 
-### **💻 Programming Languages**  
+💡 **Redefine Web & App Design** – Deliver world-class interactive digital experiences.  
+🚀 **Collaborate with Industry Leaders** – Contribute to innovative and impactful projects.  
+🎨 **Master Advanced UI/UX Trends** – Build intuitive, elegant, and highly usable interfaces.  
+🌍 **Expand Global Network** – Work with diverse teams and like-minded professionals.  
+
+---
+
+## **🛠️ Tech Stack & Tools**  
+
+### **🚀 Languages & Frameworks**  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>  
-
-### **🚀 Frameworks & Libraries**  
-<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>  
 
@@ -64,24 +62,25 @@
 
 ---
 
-## 📈 **What I’m Working On**  
-
-🚀 **Portfolio Website** – Showcasing my best work and projects.  
-🎨 **Advanced UI/UX Research** – Experimenting with modern web aesthetics.  
-🛠 **Open-Source Contributions** – Engaging with the developer community.  
-
----
-
-## 📊 **GitHub Stats & Activity**  
+## **📊 GitHub Stats & Contributions**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samar007gill&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar007gill&theme=tokyonight" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samar007gill&theme=tokyonight&no-bg=true" height="150" />
 </p>
 
 ---
 
-## 🌐 **Connect with Me**  
+## **🌍 Let's Collaborate!**  
+
+🔹 **Portfolio Website** – 🚧 Coming Soon...  
+🔹 **Open-Source Projects** – Making a difference through **collaborative development**.  
+🔹 **Freelance & Remote Work** – Open to **exciting opportunities worldwide**!  
+
+---
+
+## **📬 Connect with Me**  
 
 <p align="center">
   <a href="mailto:gillsamar087@gmail.com">
@@ -100,10 +99,12 @@
 
 ---
 
-## 🚀 **Let’s Build Something Amazing Together!**  
+## **💡 Let’s Build the Future, One Line of Code at a Time!**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="200" />
 </p>
 
 ---
+
+### **🔹 Key Upgrades from Your Previous README**  
