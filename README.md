@@ -121,19 +121,15 @@ Here’s an enhanced version of your **GitHub Achievements** section with even m
 
 ---
 
-### **🏅 Achievement List & Descriptions**  
+## **🏆 GitHub Achievements**  
 
-🔹 **YOLO** – Merged a pull request without a code review.  
-🔹 **Pair Extraordinaire** – Co-authored a pull request with someone.  
-🔹 **Starstruck** – Gained multiple stars on repositories.  
-🔹 **Quickdraw** – First to comment on an issue or pull request.  
-🔹 **Pull Shark** – Successfully merged multiple pull requests.  
-🔹 **Galaxy Brain** – Answered a discussion with deep technical knowledge.  
-🔹 **Public Sponsor** – Supported an open-source developer via GitHub Sponsors.  
-🔹 **Activist** – Engaged in discussions and contributed to open-source projects.  
-🔹 **Medalist** – Received a GitHub badge for significant contributions.  
-🔹 **Two-Factored** – Secured GitHub account with two-factor authentication.  
+<p align="center">
+  <img src="https://github.com/your-github-username.png?size=100" height="100" alt="GitHub Profile Picture" />
+  <img src="https://github.com/your-github-username/achievements/yolo.png" height="100" alt="YOLO Achievement" />
+  <img src="https://github.com/your-github-username/achievements/pair-extraordinaire.png" height="100" alt="Pair Extraordinaire Achievement" />
+  <img src="https://github.com/your-github-username/achievements/starstruck.png" height="100" alt="Starstruck Achievement" />
+  <img src="https://github.com/your-github-username/achievements/quickdraw.png" height="100" alt="Quickdraw Achievement" />
+  <img src="https://github.com/your-github-username/achievements/pull-shark.png" height="100" alt="Pull Shark Achievement" />
+</p>  
 
 ---
-
-This **professional and stylish** section will make your **GitHub profile stand out** and showcase your contributions effectively! 🌟 Let me know if you want to **add more badges** or **customize the layout** further! 🚀
