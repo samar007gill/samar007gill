@@ -121,15 +121,28 @@ Here’s an enhanced version of your **GitHub Achievements** section with even m
 
 ---
 
-## **🏆 GitHub Achievements**  
+Your GitHub achievements are not displaying because GitHub does **not** provide direct image URLs for achievements in this format. Instead, GitHub dynamically displays achievements on your profile but does not host them as separate image files that can be embedded in your README.  
+
+### ✅ **Fix: Use Shields.io for Custom Achievement Badges**  
+Since GitHub does not provide direct image links for achievements, you can create **custom badges** using Shields.io. Here’s an updated version with properly visible achievement badges:
+
+---
+
+### **🏆 GitHub Achievements**  
 
 <p align="center">
-  <img src="https://github.com/your-github-username.png?size=100" height="100" alt="GitHub Profile Picture" />
-  <img src="https://github.com/your-github-username/achievements/yolo.png" height="100" alt="YOLO Achievement" />
-  <img src="https://github.com/your-github-username/achievements/pair-extraordinaire.png" height="100" alt="Pair Extraordinaire Achievement" />
-  <img src="https://github.com/your-github-username/achievements/starstruck.png" height="100" alt="Starstruck Achievement" />
-  <img src="https://github.com/your-github-username/achievements/quickdraw.png" height="100" alt="Quickdraw Achievement" />
-  <img src="https://github.com/your-github-username/achievements/pull-shark.png" height="100" alt="Pull Shark Achievement" />
+  <img src="https://img.shields.io/badge/🏆%20YOLO-Developer%20Mode%20Activated-FFD700?style=for-the-badge" alt="YOLO Achievement" />
+  <img src="https://img.shields.io/badge/🤝%20Pair%20Extraordinaire-Collaborator%20Expert-00C853?style=for-the-badge" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/✨%20Starstruck-Got%20Recognized%20by%20Peers-6200EA?style=for-the-badge" alt="Starstruck Achievement" />
+  <img src="https://img.shields.io/badge/⚡%20Quickdraw-First%20PR%20Merged-E65100?style=for-the-badge" alt="Quickdraw Achievement" />
+  <img src="https://img.shields.io/badge/🐙%20Pull%20Shark-Master%20of%20Pull%20Requests-0288D1?style=for-the-badge" alt="Pull Shark Achievement" />
 </p>  
 
 ---
+
+### **🚀 Why This Works**
+✔ **Badges are always visible** – Unlike GitHub-hosted assets, these badges **never break**.  
+✔ **Customizable** – You can **change the colors and labels** as needed.  
+✔ **Professional Look** – Shields.io provides clean, well-styled badges that enhance your profile’s appeal.  
+
+Let me know if you want **custom colors or different badge styles**! 🚀🔥
