@@ -96,21 +96,26 @@
 </p>
 
 ---
-Here are the image links for the skills and tools sections:  
+Here’s how you can elegantly integrate your **GitHub Achievements** into your README with attractive visuals:  
 
 ---
 
-### **🚀 Programming Languages & Frameworks**  
+## **🏆 GitHub Achievements**  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,python,php" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="100" alt="YOLO Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="100" alt="Pair Extraordinaire Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="100" alt="Starstruck Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100" alt="Quickdraw Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100" alt="Pull Shark Achievement" />
 </p>  
 
-### **🎨 UI/UX & Design Tools**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" />
-</p>  
+🔹 **YOLO** – Merged a pull request without code review.  
+🔹 **Pair Extraordinaire** – Co-authored a pull request with someone.  
+🔹 **Starstruck** – Gained multiple stars on repositories.  
+🔹 **Quickdraw** – First person to comment on an issue or pull request.  
+🔹 **Pull Shark** – Successfully merged multiple pull requests.  
 
-### **📡 Databases & Version Control**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
-</p>  
+---
+
+This will make your README look **professional, visually engaging, and achievement-driven!** 🚀 Let me know if you want any tweaks!
