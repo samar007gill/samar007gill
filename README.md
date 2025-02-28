@@ -96,3 +96,21 @@
 </p>
 
 ---
+Here are the image links for the skills and tools sections:  
+
+---
+
+### **🚀 Programming Languages & Frameworks**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,python,php" />
+</p>  
+
+### **🎨 UI/UX & Design Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" />
+</p>  
+
+### **📡 Databases & Version Control**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
+</p>  
