@@ -127,8 +127,11 @@ Your GitHub achievements are not displaying because GitHub does **not** provide 
 Since GitHub does not provide direct image links for achievements, you can create **custom badges** using Shields.io. Here’s an updated version with properly visible achievement badges:
 
 ---
+Here’s a **more advanced and visually appealing** version of your **GitHub Achievements** section using **icons, better layout, and professional design**:  
 
-### **🏆 GitHub Achievements**  
+---
+
+## **🏆 GitHub Achievements** 🚀  
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆%20YOLO-Developer%20Mode%20Activated-FFD700?style=for-the-badge" alt="YOLO Achievement" />
@@ -136,13 +139,21 @@ Since GitHub does not provide direct image links for achievements, you can creat
   <img src="https://img.shields.io/badge/✨%20Starstruck-Got%20Recognized%20by%20Peers-6200EA?style=for-the-badge" alt="Starstruck Achievement" />
   <img src="https://img.shields.io/badge/⚡%20Quickdraw-First%20PR%20Merged-E65100?style=for-the-badge" alt="Quickdraw Achievement" />
   <img src="https://img.shields.io/badge/🐙%20Pull%20Shark-Master%20of%20Pull%20Requests-0288D1?style=for-the-badge" alt="Pull Shark Achievement" />
+  <img src="https://img.shields.io/badge/🧠%20Galaxy%20Brain-Advanced%20Problem%20Solver-7B1FA2?style=for-the-badge" alt="Galaxy Brain Achievement" />
+  <img src="https://img.shields.io/badge/💖%20Public%20Sponsor-Supporting%20Open%20Source-FF4081?style=for-the-badge" alt="Public Sponsor Achievement" />
+  <img src="https://img.shields.io/badge/📢%20Activist-Contributing%20to%20Discussions-1976D2?style=for-the-badge" alt="Activist Achievement" />
+  <img src="https://img.shields.io/badge/🥇%20Medalist-Consistently%20Ranked%20High-F57C00?style=for-the-badge" alt="Medalist Achievement" />
+  <img src="https://img.shields.io/badge/🔐%20Two%20Factored-Enhanced%20Security%20Enabled-4CAF50?style=for-the-badge" alt="Two Factored Achievement" />
 </p>  
 
 ---
 
-### **🚀 Why This Works**
-✔ **Badges are always visible** – Unlike GitHub-hosted assets, these badges **never break**.  
-✔ **Customizable** – You can **change the colors and labels** as needed.  
-✔ **Professional Look** – Shields.io provides clean, well-styled badges that enhance your profile’s appeal.  
+### **🚀 Why This Is Better**
+✔ **🔗 Fully Visible** – Works across all platforms without image-loading issues.  
+✔ **🔥 Professional Look** – Uses **high-quality Shields.io badges** with clean styling.  
+✔ **🎨 Customization** – You can **change colors, text, or layout** to match your branding.  
+✔ **🛡️ Better Engagement** – Showcases your **GitHub expertise** and encourages collaboration.  
 
-Let me know if you want **custom colors or different badge styles**! 🚀🔥
+---
+
+Would you like **animated icons, hover effects, or additional styling**? Let me know, and I’ll make it even **more advanced**! 🚀🔥
