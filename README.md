@@ -1,149 +1,95 @@
 
+<!-- Advanced Header with Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=700&color=00A1D6&center=true&vCenter=true&width=900&lines=👋+Hey,+I'm+Samar+Gill!;🌐+Full-Stack+Developer+%26+Designer;🚀+Turning+Dreams+into+Web+Realities;💡+Innovating+the+Future+One+Pixel+at+a+Time" />
+</h1>
+
 ---
 
-# **🚀 Hey, I'm Samar Gill!**  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=700&color=00A1D6&center=true&vCenter=true&width=900&lines=👨‍💻+Full-Stack+Developer;🎨+UI/UX+Designer;🚀+Building+Innovative+Web+Solutions;🌍+Turning+Ideas+into+Digital+Reality;💡+Pushing+the+Boundaries+of+Design+%26+Code" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/samar007gill/samar007gill/assets/your-unique-asset-id/animated-banner.gif" width="800" />
+<h3 align="center">Welcome to my GitHub Profile! 🌟</h3>  
+<p align="center">  
+I’m a <strong>web developer</strong> and <strong>designer</strong> from <strong>Pakistan 🇵🇰</strong>, turning creative ideas into impactful web solutions. My journey is fueled by ambition, innovation, and a relentless pursuit of excellence. 💡  
 </p>  
 
 ---
 
-## **🌟 About Me**  
+<h2 align="center">🚀 About Me</h2>  
 
-🔹 **Full-Stack Developer & Designer** – Passionate about creating seamless digital experiences.  
-🔹 **UI/UX Specialist** – Focused on delivering exceptional, user-friendly designs.  
-🔹 **Tech Enthusiast** – Pushing the limits of **Web Development & Interactive UI**.  
-🔹 **Aspiring Global Talent** – Striving to work in the **USA 🇺🇸** with top tech companies.  
-🔹 **Open-Source Contributor** – Committed to collaboration & knowledge-sharing.  
-
----
-
-## **🎯 My Goals**  
-
-🎨 **Revolutionizing Web Design** – Crafting cutting-edge, immersive web experiences.  
-🚀 **Collaborating with Global Innovators** – Engaging in high-impact tech projects.  
-💡 **Mastering UI/UX & Interaction Design** – Staying ahead of modern design trends.  
-🌍 **Expanding My Professional Network** – Connecting with top developers & designers.  
+<ul>
+  <li>💻 <strong>Web Designer & Developer</strong>: Crafting <em>aesthetic and functional websites</em> that leave a lasting impression.</li>  
+  <li>🌟 <strong>Big Dreamer</strong>: Striving to become one of the <em>world’s top web designers</em> and contribute to groundbreaking projects.</li>  
+  <li>📚 <strong>Lifelong Learner</strong>: Continuously exploring new tools, technologies, and methodologies to refine my skills.</li>  
+  <li>✈️ <strong>Aspiration</strong>: Build a career in the <strong>USA 🇺🇸</strong>, collaborating with the best minds in the tech industry.</li>  
+</ul>
 
 ---
 
-## **🛠️ My Tech Stack**  
+<h2 align="center">🎯 My Goals</h2>  
 
-### **🚀 Programming Languages & Frameworks**  
+<ul>
+  <li>🌍 <strong>Redefine Web Design</strong>: Create websites that blend <em>creativity and functionality</em> to inspire and engage users.</li>  
+  <li>🚀 <strong>Collaborate with Top Tech Companies</strong>: Be part of <em>innovative global projects</em> that make a real-world impact.</li>  
+  <li>🎨 <strong>Master UI/UX</strong>: Elevate my design skills to craft <em>exceptional user experiences</em>.</li>  
+</ul>
+
+---
+
+<h2 align="center">🛠️ Skills & Technologies</h2>  
+
+### **Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,python,php" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />  
 </p>  
 
-### **🎨 UI/UX & Design Tools**  
+### **Frameworks & Libraries**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />  
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />  
 </p>  
 
-### **📡 Databases & Version Control**  
+### **Design Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />  
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />  
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />  
 </p>  
 
----
-
-## **📊 GitHub Stats & Contributions**  
-
+### **Other Tools**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samar007gill&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar007gill&theme=radical" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=samar007gill&theme=radical&no-bg=true" height="150" />
-</p>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />  
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />  
+</p>  
 
----
-
-## **🌍 What I’m Working On**  
-
-💼 **Portfolio Website** – 🚀 Creating a dynamic showcase of my best work.  
-🎨 **Advanced UI/UX Projects** – Experimenting with modern **interactive design trends**.  
-💡 **Open-Source Contributions** – Helping build impactful community-driven projects.  
-📖 **Continuous Learning** – Exploring **AI-powered design & web automation**.  
-
----
-
-## **📬 Let's Connect!**  
-
+### **Version Control & Databases**  
 <p align="center">
-  <a href="mailto:gillsamar087@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-gillsamar087%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
-  <a href="https://github.com/samar007gill">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-samar007gill-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
-  <a href="https://twitter.com/SamarGill">
-    <img src="https://img.shields.io/badge/🐦%20Twitter-@SamarGill-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>  
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-FFD700?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>  
-</p>
-
----
-
-## **💡 Building the Future, One Line of Code at a Time!**  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
-
----
-Here’s how you can elegantly integrate your **GitHub Achievements** into your README with attractive visuals:  
-
----
-
-Here’s an enhanced version of your **GitHub Achievements** section with even more **prestigious achievements** to make your profile look **professional, attractive, and impactful!** 🚀  
-
----
-
-## **🏆 GitHub Achievements**  
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="100" alt="YOLO Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="100" alt="Pair Extraordinaire Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="100" alt="Starstruck Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100" alt="Quickdraw Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100" alt="Pull Shark Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" height="100" alt="Galaxy Brain Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" height="100" alt="Public Sponsor Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/activist-default.png" height="100" alt="Activist Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/medalist-default.png" height="100" alt="Medalist Achievement" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/two-factored-default.png" height="100" alt="Two Factored Achievement" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />  
 </p>  
 
 ---
 
-Your GitHub achievements are not displaying because GitHub does **not** provide direct image URLs for achievements in this format. Instead, GitHub dynamically displays achievements on your profile but does not host them as separate image files that can be embedded in your README.  
+<h2 align="center">📈 What I’m Working On</h2>  
 
-### ✅ **Fix: Use Shields.io for Custom Achievement Badges**  
-Since GitHub does not provide direct image links for achievements, you can create **custom badges** using Shields.io. Here’s an updated version with properly visible achievement badges:
-
----
-Here’s a **more advanced and visually appealing** version of your **GitHub Achievements** section using **icons, better layout, and professional design**:  
-
----
-
-## **🏆 GitHub Achievements** 🚀  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-Developer%20Mode%20Activated-FFD700?style=for-the-badge" alt="🏆 YOLO Achievement" />
-  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Collaborator%20Expert-00C853?style=for-the-badge" alt="🤝 Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/Starstruck-Got%20Recognized%20by%20Peers-6200EA?style=for-the-badge" alt="✨ Starstruck Achievement" />
-  <img src="https://img.shields.io/badge/Quickdraw-First%20PR%20Merged-E65100?style=for-the-badge" alt="⚡ Quickdraw Achievement" />
-  <img src="https://img.shields.io/badge/Pull%20Shark-Master%20of%20Pull%20Requests-0288D1?style=for-the-badge" alt="🐙 Pull Shark Achievement" />
-  <img src="https://img.shields.io/badge/Galaxy%20Brain-Advanced%20Problem%20Solver-7B1FA2?style=for-the-badge" alt="🧠 Galaxy Brain Achievement" />
-  <img src="https://img.shields.io/badge/Public%20Sponsor-Supporting%20Open%20Source-FF4081?style=for-the-badge" alt="💖 Public Sponsor Achievement" />
-  <img src="https://img.shields.io/badge/Activist-Contributing%20to%20Discussions-1976D2?style=for-the-badge" alt="📢 Activist Achievement" />
-  <img src="https://img.shields.io/badge/Medalist-Consistently%20Ranked%20High-F57C00?style=for-the-badge" alt="🥇 Medalist Achievement" />
-  <img src="https://img.shields.io/badge/Two%20Factored-Enhanced%20Security%20Enabled-4CAF50?style=for-the-badge" alt="🔐 Two Factored Achievement" />
+<p align="center">  
+💼 **Portfolio Website**: Building a platform to showcase my best work and highlight my skills.  
+🎨 **Advanced UI/UX**: Experimenting with cutting-edge design trends to deliver <em>top-notch user experiences</em>.  
+🤝 **Open-Source Projects**: Contributing to impactful projects while improving my coding abilities.  
 </p>
 
 
+
+💬 Let’s Connect!</h2> <p align="center"> ✨ I’m always open to collaborating on impactful projects and connecting with like-minded professionals. Let’s create something amazing together! </p> <p align="center"> <a href="mailto:gillsamar087@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/📧%20Email-gillsamar087%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/samar007gill" target="_blank"> <img src="https://img.shields.io/badge/🐙%20GitHub-samar007gill-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://twitter.com/SamarGill" target="_blank"> <img src="https://img.shields.io/badge/🐦%20Twitter-@SamarGill-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-FFD700?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /> </a> </p>
+---
+
+<h3 align="center">Samar Gill – Developer | Designer | Dreamer 🌟</h3>  
+
+---
