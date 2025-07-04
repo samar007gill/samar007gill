@@ -1,5 +1,4 @@
 
-<!-- Advanced Header with Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=700&color=00A1D6&center=true&vCenter=true&width=900&lines=👋+Hey,+I'm+Samar+Gill!;🌐+Full-Stack+Developer+%26+Designer;🚀+Turning+Dreams+into+Web+Realities;💡+Innovating+the+Future+One+Pixel+at+a+Time" />
 </h1>
